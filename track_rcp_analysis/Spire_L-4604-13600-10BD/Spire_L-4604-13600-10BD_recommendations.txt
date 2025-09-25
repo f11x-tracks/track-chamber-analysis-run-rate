@@ -1,0 +1,21 @@
+OPTIMIZATION RECOMMENDATIONS FOR: Spire/L-4604-13600-10BD
+================================================================================
+
+🚩 BOTTLENECK: TEL chambers are the primary bottleneck
+   └─ Average time: 25.8 minutes vs 0.5 minutes for CHK
+   └─ Improvement potential: 98.3% time reduction possible
+
+⚠️  HIGH VARIABILITY CHAMBERS:
+   └─ TEL: 60.2% CV (Range: 12.2-85.1 min)
+   └─ COT: 147.7% CV (Range: 1.9-61.8 min)
+
+🔧 INDIVIDUAL CHAMBERS NEEDING ATTENTION:
+   └─ TEL_ACT12: 25.8 min avg, 60.2% CV
+   └─ COT141: 2.9 min avg, 222.5% CV
+
+💡 OPTIMIZATION RECOMMENDATIONS:
+   1. Focus on TEL chamber optimization - highest impact
+   2. Investigate process consistency in TEL, COT chambers
+   3. TEL chamber variability (60.2% CV) suggests equipment maintenance needs
+   4. Consider load balancing across available chambers
+   5. Monitor and address chambers with >20% CV for process consistency

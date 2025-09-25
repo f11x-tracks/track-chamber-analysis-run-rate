@@ -1,0 +1,11 @@
+OPTIMIZATION RECOMMENDATIONS FOR: Spire/L-UV26-11500-10A
+================================================================================
+
+🚩 BOTTLENECK: TEL chambers are the primary bottleneck
+   └─ Average time: 18.9 minutes vs 0.4 minutes for CHK
+   └─ Improvement potential: 97.7% time reduction possible
+
+💡 OPTIMIZATION RECOMMENDATIONS:
+   1. Focus on TEL chamber optimization - highest impact
+   4. Consider load balancing across available chambers
+   5. Monitor and address chambers with >20% CV for process consistency

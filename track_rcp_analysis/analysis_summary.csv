@@ -1,0 +1,12 @@
+Recipe,Total_Wafers,Chamber_Types,Bottleneck_Chamber,Bottleneck_Time_Min,Lots_25_Wafers,Analysis_Directory
+Spire/C-4602-61500-20A {RESIST=AM;LinkMode=Track;DISPOCK=OFF},625,5,TEL,18.76,0,track_rcp_analysis\Spire_C-4602-61500-20A RESIST_AM_LinkMode_Track_DISPOCK_OFF
+Spire/L-4602-35500-10B,4905,7,TEL,23.01,0,track_rcp_analysis\Spire_L-4602-35500-10B
+Spire/L-4602-61500-20B,4320,7,TEL,22.15,0,track_rcp_analysis\Spire_L-4602-61500-20B
+Spire/L-4604-13350-10BD,270,7,TEL,18.93,0,track_rcp_analysis\Spire_L-4604-13350-10BD
+Spire/L-4604-13600-10BD,5348,7,TEL,25.78,0,track_rcp_analysis\Spire_L-4604-13600-10BD
+Spire/L-7152C19-11800-A,7344,7,TEL,23.69,0,track_rcp_analysis\Spire_L-7152C19-11800-A
+Spire/L-7152C19-7600-A,6327,7,TEL,18.24,0,track_rcp_analysis\Spire_L-7152C19-7600-A
+Spire/L-M484-3300-10B,3715,7,TEL,16.55,0,track_rcp_analysis\Spire_L-M484-3300-10B
+Spire/L-M484-3720-10B,6048,7,TEL,17.89,0,track_rcp_analysis\Spire_L-M484-3720-10B
+Spire/L-M484-TC-4200-10B,2532,9,TEL,30.13,0,track_rcp_analysis\Spire_L-M484-TC-4200-10B
+Spire/L-UV26-11500-10A,8073,7,TEL,18.89,0,track_rcp_analysis\Spire_L-UV26-11500-10A

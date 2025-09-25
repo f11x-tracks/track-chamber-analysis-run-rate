@@ -1,0 +1,15 @@
+OPTIMIZATION RECOMMENDATIONS FOR: Spire/C-4602-61500-20A {RESIST=AM;LinkMode=Track;DISPOCK=OFF}
+================================================================================
+
+🚩 BOTTLENECK: TEL chambers are the primary bottleneck
+   └─ Average time: 18.8 minutes vs 0.8 minutes for SCP
+   └─ Improvement potential: 96.0% time reduction possible
+
+⚠️  HIGH VARIABILITY CHAMBERS:
+   └─ TEL: 15.6% CV (Range: 8.9-24.2 min)
+
+💡 OPTIMIZATION RECOMMENDATIONS:
+   1. Focus on TEL chamber optimization - highest impact
+   3. TEL chamber variability (15.6% CV) suggests equipment maintenance needs
+   4. Consider load balancing across available chambers
+   5. Monitor and address chambers with >20% CV for process consistency
